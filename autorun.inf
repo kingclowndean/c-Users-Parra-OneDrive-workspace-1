@@ -1,0 +1,3 @@
+[AutoRun]
+open=windows\AutoRun.exe
+icon=windows\Setup.exe,0
